@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrescamilochavez" alt="andrescamilochavez" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/andres" target="blank"><img src="https://img.shields.io/twitter/follow/andres?logo=twitter&style=for-the-badge" alt="andres" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/andres" target="blank"><img src="https://img.shields.io/twitter/follow/andres?logo=twitter&style=for-the-badge" alt="andres" /></a> </p>
+ -->
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
